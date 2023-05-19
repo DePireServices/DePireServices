@@ -6,9 +6,9 @@
 - 📫 How to reach me: vanzdef.dpm@gmail.com or Rupee.,#1545 - Discord
 - ⚡ Fun fact: DePire™ - Innits
 
-About Me = [
-    "I'm student with dev labels",
-    "A know about of Python, Html, PHP, CSS, Java"
+About Me = [/n
+    "I'm student with dev labels",/n
+    "A know about of Python, Html, PHP, CSS, Java"/n
     "I still here🍰"
 ]
 
