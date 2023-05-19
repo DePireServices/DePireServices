@@ -1,4 +1,4 @@
-Hi there, I'm VanVFZ
+Hi there, I'm VanVFz
 
 - 🔭 I’m currently working on DePire™ - Services
 - 🌱 I’m currently learning Forge/Quit/Fabric dev
