@@ -7,8 +7,8 @@
 - ⚡ Fun fact: DePire™ - Innits
 
 About Me = [/n
-    "I'm student with dev labels",/n
-    "A know about of Python, Html, PHP, CSS, Java"/n
+    "I'm student with dev labels",
+    "A know about of Python, Html, PHP, CSS, Java"
     "I still here🍰"
 ]
 
