@@ -9,7 +9,7 @@
 About Me = [
     "I'm student with dev labels",
     "A know about of Python, Html, PHP, CSS, Java"
-    "I'm still here🍰"
+    "I'm still alive🍰"
 ]
 
 
