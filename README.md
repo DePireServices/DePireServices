@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on DePire™ - Services
 - 🌱 I’m currently learning Forge/Quit/Fabric dev
 - 💬 Ask me about Everything?
-- 📫 How to reach me: vanzdef.dpm@gmail.com or Rupee.,#1545 - Discord
+- 📫 How to reach me: vanzdef.dpm@gmail.com or rupee_ifr - Discord
 - ⚡ Fun fact: DePire™ - Innits
 
 About Me = [
